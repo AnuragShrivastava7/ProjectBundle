@@ -10,6 +10,9 @@ public class FirstProgram {
 		String[] names = {"Anu", "JHON"};
 		System.out.println(names[0]);
 		System.out.println(names[1]);
+		String[] names2 = {"Anu", "JHON"};
+		System.out.println(names2[0]);
+		System.out.println(names2[1]);
 		
 		
 	}
