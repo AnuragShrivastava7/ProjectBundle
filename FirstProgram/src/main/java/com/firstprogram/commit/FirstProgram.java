@@ -10,10 +10,7 @@ public class FirstProgram {
 		String[] names = {"Anu", "JHON"};
 		System.out.println(names[0]);
 		System.out.println(names[1]);
-		System.out.println("First Program .... ");
-		String[] names = {"Anu", "JHON"};
-		System.out.println(names[0]);
-		System.out.println(names[1]);
+		
 		
 	}
 }
